@@ -1,0 +1,28 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(168, 160, 240);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"poppins", sans-serif ;
+}
+
+.form{
+   background-color: rgb(197, 233, 221);
+   padding: 50px;
+   max-width: 300px;
+   width: 100%;
+   border-radius: 12px;
+   
+   
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+
+
+}
